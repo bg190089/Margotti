@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771730005131,
+      "tag": "0000_outgoing_starbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771730250329,
+      "tag": "0001_lame_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1771731216908,
+      "tag": "0002_green_penance",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1771731297268,
+      "tag": "0003_nosy_princess_powerful",
+      "breakpoints": true
+    }
+  ]
+}
